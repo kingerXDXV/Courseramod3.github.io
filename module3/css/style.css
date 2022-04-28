@@ -1,0 +1,33 @@
+@media (max-width: 767px){
+
+
+.dropdown-menu {
+    width: 100% !important;
+    text-align: center;
+    
+}
+
+#humburger{
+    display: visible;
+}
+
+}
+
+
+@media (min-width: 768px){
+#humburger{
+    display: none;
+}
+}
+
+.content{
+    background-color: grey;
+    text-align: center;
+    margin: 10px;
+
+}
+
+p{
+    text-align: left;
+    padding: 10px;
+}
